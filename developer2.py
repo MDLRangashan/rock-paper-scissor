@@ -1,6 +1,6 @@
 """
 Image Processing Module for Rock Paper Scissors Game
-Author: [Your Name] (Member 2)
+Author: [MDL Rangashan - 22877] (Developer  2)
 Date: May 08, 2025
 Description: This module implements an image processing pipeline to convert webcam frames
 into greyscale, thresholded, and background-removed images. It detects contours to isolate
