@@ -1,6 +1,6 @@
 """
 Evidence Recorder Module for Rock Paper Scissors Game
-Author: M.M.I.R Chandrasiri - 23863 (Developer 6)
+Author: [23863 - M.M.I.R Chandrasiri] (Developer 6)
 Date: May 08, 2025
 Description: This module implements a utility to capture webcam screenshots as evidence
 for the Rock Paper Scissors game. Screenshots are saved with timestamps in a designated
